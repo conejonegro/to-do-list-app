@@ -2,6 +2,7 @@ import React from "react";
 import AppUI from "./componentes/AppUI";
 import './css/App.css';
 import './css/boton-agregar.css';
+import './css/tareas-por-completar.css';
 
 const arregloTareas = [
   { id: 1, titulo: "Comprar leche", completada: false },
