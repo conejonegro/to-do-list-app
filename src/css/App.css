@@ -1,7 +1,19 @@
+body{
+  background-color:#6d9dff;
+}
+
 .App {
   text-align: center;
 }
 
+
+input{
+  padding: 0.5em;
+  border-radius: 4px;
+  border: none;
+  width: 100%;
+  max-width: 182px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

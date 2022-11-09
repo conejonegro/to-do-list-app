@@ -1,0 +1,13 @@
+li{
+    padding: 2.5%;
+    background: wheat;
+    width: fit-content;
+    margin-bottom: 0.5em;
+  }
+  li::marker{
+    display: none;
+    color: transparent;
+  }
+  .tarea-completada{
+    text-decoration: line-through;
+  }
